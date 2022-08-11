@@ -1,0 +1,5 @@
+biodata kal
+nama lengkap: Mochamad Chikal Akhila
+jenis kelamin: laki laki
+hobi: bersantai
+cita cita: backend programmer
