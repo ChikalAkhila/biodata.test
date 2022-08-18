@@ -3,3 +3,5 @@ nama lengkap: Mochamad Chikal Akhila
 jenis kelamin: laki laki
 hobi: membaca
 cita cita: backend programmer
+riwayat pendidikan:
+-smp kartika x-1 bandung
