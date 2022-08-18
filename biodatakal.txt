@@ -5,3 +5,4 @@ hobi: menonton
 cita cita: backend programmer
 riwayat pendidikan:
 -smp kartika x-1 bandung
+-smk pi
